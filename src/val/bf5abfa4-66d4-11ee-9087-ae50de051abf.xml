@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bf5abfa4-66d4-11ee-9087-ae50de051abf.jpg</filename>
+	<path>C:\Users\HP\IdeaProjects\ArmOS\src\images\bf5abfa4-66d4-11ee-9087-ae50de051abf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>291</ymin>
+			<xmax>282</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

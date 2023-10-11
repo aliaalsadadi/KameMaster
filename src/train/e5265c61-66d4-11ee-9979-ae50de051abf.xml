@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>e5265c61-66d4-11ee-9979-ae50de051abf.jpg</filename>
+	<path>C:\Users\HP\IdeaProjects\ArmOS\src\images\e5265c61-66d4-11ee-9979-ae50de051abf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>128</ymin>
+			<xmax>136</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

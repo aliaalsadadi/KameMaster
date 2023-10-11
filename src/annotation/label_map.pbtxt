@@ -1,0 +1,8 @@
+item {
+	name:'charge'
+	id:1
+}
+item {
+	name:'blast'
+	id:2
+}
