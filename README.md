@@ -8,6 +8,7 @@ Unfortunately I couldn't dockerize this game because my java files were compiled
 3.modifying the code a little bit by changing the file paths 
 (filepaths to change: in the Stats file change both the python.exe path to the python.exe of you conda env and the try.py will be cloned so you just 
 have to copy its path and paste it,
-in the Game file change the gameSound filepath to your desired track
+you may need to chang the try.py a bit if it gives code error 1 you will have to change the path to the models checkpoint located in the ReaTimeObjectRecognition folder,
+in the Game file change the gameSound filepath to your desired track)
 that's it have fun!
 
